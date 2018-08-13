@@ -1,7 +1,4 @@
-package io.bh.java.client;
-
-import io.bh.java.patterns.SingletonEnum;
-import io.bh.java.patterns.SingletonThreadSafe;
+package io.bh.java.patterns.singleton;
 
 public class JavaClient {
 	

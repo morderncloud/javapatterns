@@ -1,4 +1,4 @@
-package io.bh.java.patterns;
+package io.bh.java.patterns.singleton;
 
 public class SingletonInnerStaticClass {
 	
