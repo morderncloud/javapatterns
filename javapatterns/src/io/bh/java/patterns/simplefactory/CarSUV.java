@@ -6,4 +6,9 @@ public class CarSUV implements CarProduct{
 		System.out.println("Creating SUV");
 	}
 
+	@Override
+	public void startEngine() {
+		System.out.println(CarSUV.class.getName() + " engine started");
+	}
+
 }
